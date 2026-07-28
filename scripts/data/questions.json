@@ -1,0 +1,277 @@
+[
+    {
+        "question": "What force keeps planets moving around the Sun?",
+        "answers": [
+            "Friction",
+            "Gravity",
+            "Magnetism",
+            "Electricity"
+        ],
+        "correct_answer": 1,
+        "explanation": "Gravity is the force that attracts planets toward the Sun and keeps them in orbit.",
+        "category": "Science"
+    },
+
+    {
+        "question": "Which gas do humans need to breathe to survive?",
+        "answers": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correct_answer": 1,
+        "explanation": "Humans use oxygen during respiration to release energy from food.",
+        "category": "Science"
+    },
+
+    {
+        "question": "What happens to water when it reaches 100°C at normal pressure?",
+        "answers": [
+            "It freezes",
+            "It evaporates",
+            "It becomes metal",
+            "It disappears"
+        ],
+        "correct_answer": 1,
+        "explanation": "At 100°C water changes from liquid into gas through boiling.",
+        "category": "Science"
+    },
+
+    {
+        "question": "Which organ pumps blood around the human body?",
+        "answers": [
+            "Brain",
+            "Lungs",
+            "Heart",
+            "Kidney"
+        ],
+        "correct_answer": 2,
+        "explanation": "The heart pumps blood through the circulatory system.",
+        "category": "Science"
+    },
+
+    {
+        "question": "Which type of energy comes from the Sun?",
+        "answers": [
+            "Solar energy",
+            "Sound energy",
+            "Chemical energy",
+            "Nuclear waste"
+        ],
+        "correct_answer": 0,
+        "explanation": "Solar energy comes from sunlight and can be converted into electricity.",
+        "category": "Science"
+    },
+
+    {
+        "question": "What part of a plant absorbs water from the soil?",
+        "answers": [
+            "Flower",
+            "Leaf",
+            "Root",
+            "Stem"
+        ],
+        "correct_answer": 2,
+        "explanation": "Roots absorb water and minerals needed for plant growth.",
+        "category": "Science"
+    },
+
+    {
+        "question": "Which state of matter has a fixed shape?",
+        "answers": [
+            "Gas",
+            "Liquid",
+            "Solid",
+            "Plasma"
+        ],
+        "correct_answer": 2,
+        "explanation": "Solids have particles packed closely together, giving them a fixed shape.",
+        "category": "Science"
+    },
+
+    {
+        "question": "What instrument measures temperature?",
+        "answers": [
+            "Barometer",
+            "Thermometer",
+            "Microscope",
+            "Compass"
+        ],
+        "correct_answer": 1,
+        "explanation": "A thermometer measures temperature.",
+        "category": "Science"
+    },
+
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter"
+        ],
+        "correct_answer": 1,
+        "explanation": "Mars appears red because of iron oxide on its surface.",
+        "category": "Science"
+    },
+
+    {
+        "question": "What is the basic unit of life?",
+        "answers": [
+            "Atom",
+            "Cell",
+            "Organ",
+            "Tissue"
+        ],
+        "correct_answer": 1,
+        "explanation": "Cells are the smallest structures that can perform life functions.",
+        "category": "Science"
+    },
+
+
+    {
+        "question": "What does CPU stand for?",
+        "answers": [
+            "Central Processing Unit",
+            "Computer Power Utility",
+            "Central Program User",
+            "Computer Processing User"
+        ],
+        "correct_answer": 0,
+        "explanation": "The CPU is the main processor of a computer.",
+        "category": "Technology"
+    },
+
+    {
+        "question": "Which language is commonly used to create websites?",
+        "answers": [
+            "HTML",
+            "Python",
+            "C++",
+            "Java"
+        ],
+        "correct_answer": 0,
+        "explanation": "HTML structures the content of websites.",
+        "category": "Technology"
+    },
+
+    {
+        "question": "What does AI stand for?",
+        "answers": [
+            "Automatic Internet",
+            "Artificial Intelligence",
+            "Advanced Information",
+            "Applied Internet"
+        ],
+        "correct_answer": 1,
+        "explanation": "AI allows computers to perform tasks requiring human-like intelligence.",
+        "category": "Technology"
+    },
+
+    {
+        "question": "Which device stores digital information permanently?",
+        "answers": [
+            "Keyboard",
+            "Monitor",
+            "Hard drive",
+            "Mouse"
+        ],
+        "correct_answer": 2,
+        "explanation": "Hard drives store data even when the computer is turned off.",
+        "category": "Technology"
+    },
+
+    {
+        "question": "What is a robot?",
+        "answers": [
+            "A living machine",
+            "A programmable machine",
+            "A type of food",
+            "A computer virus"
+        ],
+        "correct_answer": 1,
+        "explanation": "Robots are machines controlled by programming.",
+        "category": "Technology"
+    },
+
+
+    {
+        "question": "What shape is strongest for building structures?",
+        "answers": [
+            "Triangle",
+            "Circle",
+            "Line",
+            "Oval"
+        ],
+        "correct_answer": 0,
+        "explanation": "Triangles distribute forces efficiently in structures.",
+        "category": "Engineering"
+    },
+
+    {
+        "question": "Engineers use prototypes mainly to:",
+        "answers": [
+            "Test designs",
+            "Destroy products",
+            "Avoid calculations",
+            "Remove materials"
+        ],
+        "correct_answer": 0,
+        "explanation": "Prototypes allow engineers to test and improve designs.",
+        "category": "Engineering"
+    },
+
+    {
+        "question": "A bridge must support weight. Engineers are studying:",
+        "answers": [
+            "Structure and forces",
+            "Cooking methods",
+            "Weather only",
+            "Music"
+        ],
+        "correct_answer": 0,
+        "explanation": "Engineers analyze forces acting on structures.",
+        "category": "Engineering"
+    },
+
+
+    {
+        "question": "What is 25 × 4?",
+        "answers": [
+            "50",
+            "75",
+            "100",
+            "125"
+        ],
+        "correct_answer": 2,
+        "explanation": "25 multiplied by 4 equals 100.",
+        "category": "Mathematics"
+    },
+
+    {
+        "question": "A triangle has angles 60° and 60°. What is the third angle?",
+        "answers": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+        ],
+        "correct_answer": 1,
+        "explanation": "The angles of a triangle add up to 180°.",
+        "category": "Mathematics"
+    },
+
+    {
+        "question": "What is the value of 10²?",
+        "answers": [
+            "20",
+            "50",
+            "100",
+            "1000"
+        ],
+        "correct_answer": 2,
+        "explanation": "10² means 10 × 10 = 100.",
+        "category": "Mathematics"
+    }
+]
